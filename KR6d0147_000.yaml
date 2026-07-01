@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6d0147/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 天台智者大師禪門口訣
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T46/T46n1919.xml
+    old_id: T46n1919
+hash: sha256:29371db669f8578bcc998f52bd332e3b70c7832a5655a2d87c04ff6e0ac51201

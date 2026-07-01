@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6d0147/T/v1
+canonical_location: https://kanripo.org/bkk/KR6d0147/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 天台智者大師禪門口訣
+  identifiers:
+    krp: KR6d0147
+    cbeta: T46n1919
+    cbeta_old_id: T46n1919
+    authorityid: CA0000404
+    json_key: T1919
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T46/T46n1919.xml
+    old_id: T46n1919
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0147_000-T.yaml, hash: 'sha256:29371db669f8578bcc998f52bd332e3b70c7832a5655a2d87c04ff6e0ac51201'}
+  - {seq: 1, filename: KR6d0147_001-T.yaml, hash: 'sha256:9438085254df541a047afe87297cb4f77fc6def7eb93cba951b5739b4e21b4ec'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0147_000-T.markers.yaml, hash: 'sha256:89653b40043ed535d8bf499d8f286ea138e4a366bfced9b14cd10691ea190a6a'}
+  - {seq: 1, role: markers, filename: assets/KR6d0147_001-T.markers.yaml, hash: 'sha256:bdf9e514053b7a0430c930ca7cbf4645e48489a42c7fe3d44d76de8ce31f0245'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6d0147_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4792
+  label: 天台智者大師禪門口訣
+  type: juan
+  level: 1
+hash: sha256:8a60011c7678e61834b728c73129b5f70fa67a7c92df091e376aac93909d5a09
