@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6d0147_000.yaml, hash: 'sha256:29371db669f8578bcc998f52bd332e3b70c7832a5655a2d87c04ff6e0ac51201'}
-  - {seq: 1, filename: KR6d0147_001.yaml, hash: 'sha256:51b30b5e70465b371e764fbfcb0bcb6cd12026ca3e47b8005c628e21d9658e7f'}
+  - {seq: 1, filename: KR6d0147_001.yaml, hash: 'sha256:9438085254df541a047afe87297cb4f77fc6def7eb93cba951b5739b4e21b4ec'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6d0147_001.markers.yaml, hash: 'sha256:d5641cac68d91dd22d82c91e2c8da4de258f3c237a5769373406f81d8c40b9a7'}
+  - {seq: 0, role: markers, filename: assets/KR6d0147_000.markers.yaml, hash: 'sha256:6937fcbe2ce04c5bc1b846bb4f9bada14634e2089eb7fcf116b56e52fd27f2ca'}
+  - {seq: 1, role: markers, filename: assets/KR6d0147_001.markers.yaml, hash: 'sha256:70c06af93057d40ffded4da21dc764dd5cfbbd9cc578a55723a8c4704b625073'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 天台智者大師禪門口訣
   type: juan
   level: 1
-hash: sha256:8a537a46c32bed2074b7ae371fae59870ff79242beaf588bc206be7adb883106
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:a9119fb4217d2a605c3c4995752d7452c60182f24cb80856d0d39edbf663b1da
