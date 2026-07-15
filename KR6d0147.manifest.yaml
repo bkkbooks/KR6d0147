@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6d0147/v1
 canonical_location: https://kanripo.org/bkk/KR6d0147/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 天台智者大師禪門口訣
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6d0147_000.yaml, hash: 'sha256:29371db669f8578bcc998f52bd332e3b70c7832a5655a2d87c04ff6e0ac51201'}
-  - {seq: 1, filename: KR6d0147_001.yaml, hash: 'sha256:9438085254df541a047afe87297cb4f77fc6def7eb93cba951b5739b4e21b4ec'}
+  - {seq: 1, filename: KR6d0147_001.yaml, hash: 'sha256:46fa07b55061d414f2860e75592ef84e4fec410297d8ede37d1b6a9cae54b4b3'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6d0147_000.markers.yaml, hash: 'sha256:6937fcbe2ce04c5bc1b846bb4f9bada14634e2089eb7fcf116b56e52fd27f2ca'}
-  - {seq: 1, role: markers, filename: assets/KR6d0147_001.markers.yaml, hash: 'sha256:70c06af93057d40ffded4da21dc764dd5cfbbd9cc578a55723a8c4704b625073'}
+  - {seq: 1, role: markers, filename: assets/KR6d0147_001.markers.yaml, hash: 'sha256:eee7ddeb5b6c96046c21e58ffd9905fd0c01f944d2187c4a1d86e4eda86c785f'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 天台智者大師禪門口訣
   type: juan
   level: 1
-hash: sha256:a9119fb4217d2a605c3c4995752d7452c60182f24cb80856d0d39edbf663b1da
+hash: sha256:4360d6aee78316d957aa247cc90e122e645d1ce1b04fa548b260e15197edca25
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
